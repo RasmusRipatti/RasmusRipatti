@@ -1,4 +1,4 @@
-## This is me
+## This is Rasmus Ripatti
 
 <!--
 **RasmusRipatti/RasmusRipatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
